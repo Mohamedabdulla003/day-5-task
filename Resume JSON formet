@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Mohamed abdulla",
+    "label": "Programmer",
+    "image": "",
+    "email": "abdullamohamed406@",
+    "phone": "+919748652341",
+    "url": "https://Mohamedabdulla.com",
+    "summary": "A summary of Mohmed abd..",
+    "location": {
+      "address": "4.28.101vadakkuvidhi",
+      "postalCode": "600002",
+      "city": "chennai",
+      "countryCode": "india",
+      "region": "tamilnadu"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "abdulla",
+      "url": "https://twitter.com/abdulla"
+
+    }]
+
+    "education": [{
+        "institution": "collage",
+        "url": "https://Everestpllytechnic.com/",
+        "area": "tenkasi",
+        "studyType": "Bachelor",
+        "startDate": "2018-01-01",
+        "endDate": "2020-01-01",
+        "perchandage": "80%",
+        "courses": [
+          "Mechanical department"
+        ]
+      }
+
+      "skills": [{
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+            "JavaScript"
+        ]  
+      }],
+      "languages": [{
+        "language": "Tamil,English",
+        "fluency": "Native speaker Tamil"
+      }],
+      "interests": [{
+        "name": "Cricket",
+        "keywords": [
+          "Bat",
+          "Ball"
+        ]
+        }],
+    

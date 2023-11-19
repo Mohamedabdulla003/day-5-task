@@ -1,0 +1,39 @@
+for given the JSON iterate over all for loops (for,for in, for of, forEach)
+
+(for)
+let str = '';
+
+for (let i = 0; i < 9; i++) {
+  str = str + i;
+}
+
+console.log(str);
+
+
+(for in)
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
+
+console.log(object);
+
+
+(for of)
+const array1 = ['a', 'b', 'c'];
+
+for (const element of array1) {
+  console.log(element);
+}
+
+console.log(array1);
+
+
+(forEach)
+const array1 = ['a', 'b', 'c'];
+
+array1.forEach((element) => console.log(element));
+
+
+console.log(array1);
